@@ -121,9 +121,7 @@ ul {
   text-align: center;
   color: #fff;
   max-width: 496px;
-  padding-bottom: 48px;
-  text-align: center;
-  margin: 0 auto;
+  margin: 0 auto 48px;
 }
 
 .hero-button {
@@ -295,8 +293,7 @@ ul {
 
 .page-footer {
   background-color: #2e2f42;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding: 100px 0;
 }
 
 .page-footer-text {
@@ -306,12 +303,11 @@ ul {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
-  padding-top: 16px;
+  margin-top: 16px;
 }
 
 .footer-logo .logo-part {
   color: #f4f4fd;
-  padding-top: 100px;
 }
 
 .footer-logo {
