@@ -294,6 +294,7 @@ ul {
 .page-footer {
   background-color: #2e2f42;
   padding: 100px 0;
+  overflow: auto;
 }
 
 .page-footer-text {
