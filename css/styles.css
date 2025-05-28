@@ -294,7 +294,6 @@ ul {
 .page-footer {
   background-color: #2e2f42;
   padding: 100px 0;
-  overflow: auto;
 }
 
 .page-footer-text {
@@ -304,7 +303,6 @@ ul {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
-  margin-top: 16px;
 }
 
 .footer-logo .logo-part {
